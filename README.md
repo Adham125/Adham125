@@ -19,8 +19,8 @@ Hi there, I'm Adham! 👋
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="pytorch" width="26px" src="pytorch.png" />
-<img align="left" alt="scikit-learn" width="26px" src="scikit-learn.png" />
+<img align="left" alt="pytorch" width="30px" src="pytorch.png" />
+<img align="left" alt="scikit-learn" width="30px" src="scikit-learn.png" />
 
 
 
