@@ -1,13 +1,13 @@
 Hi there, I'm Adham! 👋
 [![Github](https://img.shields.io/github/followers/Adham125?label=Follow&style=social)](https://github.com/Adham125)
-!visitors
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Adham125.Adham125)
 
-👦 About Me
-🎓 I'm a master's Computer Science student in the University of York
-⚛️ I am very interested in machine learning and neural networks
-❤️ I enjoy working on personal side projects
+## 👦 About Me
+- 🎓 I'm currently a master's Computer Science student in the University of York
+- ⚛️ I am very interested in machine learning and neural networks
+- ❤️ I enjoy working on personal side projects
 
-🌐 Connect with me
+## 🌐 Connect with me
 [<img align="left" alt="website" width="22px" src="images/web.png" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="images/utube.png" />][youtube]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
@@ -15,7 +15,7 @@ Hi there, I'm Adham! 👋
 
 <br />
 
-🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 <img align="left" alt="Csharp" width="26px" src="images/csharp.png" />
 <img align="left" alt="unity2" width="26px" src="images/unity2.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -33,6 +33,6 @@ Hi there, I'm Adham! 👋
 <br />
 <br />
 
-🏆 My Github stats
+## 🏆 My Github stats
 <img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Adham125&show_icons=true&theme=algolia" />
 <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham125&theme=algolia" />
