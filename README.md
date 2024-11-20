@@ -3,7 +3,7 @@ Hi there, I'm Adham! 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Adham125.Adham125)
 
 ## 👦 About Me
-- 🎓 I'm currently a master's Computer Science student in the University of York
+- 🎓 I'm a master's Computer Science graduate from the University of York
 - ⚛️ I am very interested in machine learning and neural networks
 - ❤️ I enjoy working on personal side projects
 
